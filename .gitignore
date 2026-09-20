@@ -61,3 +61,6 @@ keystore.properties
 *.njsproj
 *.sln
 *.sw?
+
+# Personal
+8vo/
